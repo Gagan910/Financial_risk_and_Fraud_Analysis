@@ -19,3 +19,10 @@ This project analyzes transaction-level data to identify fraud patterns using SQ
 - python/ → Data ingestion scripts
 - dashboard/ → Power BI files
 - screenshots/ → Dashboard images
+## 📊 Power BI Dashboard
+
+### Dashboard Overview
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### Fraud vs Non-Fraud Transactions
+![Fraud vs Non-Fraud](screenshots/fraud_vs_nonfraud.png)
