@@ -22,7 +22,7 @@ This project analyzes transaction-level data to identify fraud patterns using SQ
 ## 📊 Power BI Dashboard
 
 ### Dashboard Overview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](Screenshots/dashboard_overview.png)
 
 ### Fraud vs Non-Fraud Transactions
-![Fraud vs Non-Fraud](screenshots/fraud_vs_nonfraud.png)
+![Fraud vs Non-Fraud](Screenshots/fraud_vs_nonfraud.png)
